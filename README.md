@@ -1,4 +1,4 @@
-# BorderLevel_Datapack
+# BorderLevel Datapack
 
 ## About
 This Minecraft datapack increases the size of the worldborder to the amount of your XP level.  

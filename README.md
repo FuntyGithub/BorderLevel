@@ -1,4 +1,5 @@
 # BorderLevel Datapack
+*There is also a [Plugin](https://github.com/FuntyGithub/BorderLevel_Plugin) version.*
 
 ## About
 This Minecraft datapack increases the size of the worldborder to the amount of your XP level.  

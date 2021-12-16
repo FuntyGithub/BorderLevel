@@ -1,4 +1,6 @@
 # BorderLevel Datapack
+> ### Because mobs only spawn inside of the worldboarder, its not working with a to small boarder at the beginn. Maybe i will fix that someday sorry :/
+
 *There is also a [Plugin](https://github.com/FuntyGithub/BorderLevel_Plugin) version.*
 
 ## About
